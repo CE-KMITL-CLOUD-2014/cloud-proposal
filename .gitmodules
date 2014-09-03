@@ -1,0 +1,33 @@
+[submodule "Cloud-OX-games"]
+	path = Cloud-OX-games
+	url = https://github.com/CE-KMITL-CLOUD-2014/Cloud-OX-games.git
+[submodule "Responsive_LMS"]
+	path = Responsive_LMS
+	url = https://github.com/CE-KMITL-CLOUD-2014/Responsive_LMS.git
+[submodule "Automatic-CMS-Installation"]
+	path = Automatic-CMS-Installation
+	url = https://github.com/CE-KMITL-CLOUD-2014/Automatic-CMS-Installation.git
+[submodule "Dream"]
+	path = Dream
+	url = https://github.com/CE-KMITL-CLOUD-2014/Dream.git
+[submodule "Photo285"]
+	path = Photo285
+	url = https://github.com/CE-KMITL-CLOUD-2014/Photo285.git
+[submodule "Scrum-Framework"]
+	path = Scrum-Framework
+	url = https://github.com/CE-KMITL-CLOUD-2014/Scrum-Framework.git
+[submodule "Foodshare"]
+	path = Foodshare
+	url = https://github.com/CE-KMITL-CLOUD-2014/Foodshare.git
+[submodule "Money-Movement"]
+	path = Money-Movement
+	url = https://github.com/CE-KMITL-CLOUD-2014/Money-Movement.git
+[submodule "Flash"]
+	path = Flash
+	url = https://github.com/CE-KMITL-CLOUD-2014/Flash.git
+[submodule "SharecipeTH"]
+	path = SharecipeTH
+	url = https://github.com/CE-KMITL-CLOUD-2014/SharecipeTH.git
+[submodule "Simpler-cloud"]
+	path = Simpler-cloud
+	url = https://github.com/CE-KMITL-CLOUD-2014/Simpler-cloud.git
